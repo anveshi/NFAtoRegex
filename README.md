@@ -8,3 +8,8 @@ and raw_input() became input(). If you're running Python 2.X, it won't compile. 
 those functions accordingly.
 
 Two test cases are included in this repo.
+
+Any instance of the letter 'p' stands for "phi", the empty set (no transition exists)
+'e' is an epsilon transition.
+
+0s in the input files correspond to epsilon transitions.
